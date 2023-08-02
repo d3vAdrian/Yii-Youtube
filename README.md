@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
-        <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
+        <img src="https://icons8.com/icon/37325/youtube" height="100px">
     </a>
     <h1 align="center">Yii 2 Advanced Youtube Project Clone</h1>
     <br>
